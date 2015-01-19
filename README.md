@@ -1,7 +1,7 @@
 # Crusher
 Facebook conversation fetcher.
 
-## Usager
+## Usage
 
 Be logged in to Facebook.
 
